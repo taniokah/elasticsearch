@@ -3,8 +3,9 @@
 
 bulk API により、一度の API コールでたくさんの index/delete 処理を実行できます。
 これにより、インデキシングの速度を大幅に向上できます。
+
 > The bulk API makes it possible to perform many index/delete operations
-> in a single API call. This can greatly increase the indexing speed.
+in a single API call. This can greatly increase the indexing speed.
 
 .Client support for bulk requests
 *********************************************
